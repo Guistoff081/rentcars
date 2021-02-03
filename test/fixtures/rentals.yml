@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_date: 2021-02-03 18:24:59
+  end_date: 2021-02-03 18:24:59
+  user: one
+  car: one
+
+two:
+  start_date: 2021-02-03 18:24:59
+  end_date: 2021-02-03 18:24:59
+  user: two
+  car: two
